@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  📍 Douala, Cameroun · 🌍 Ouvert aux collaborations  
+  📍 Douala, Cameroun  
 </p>
 
 ---
@@ -92,9 +92,10 @@
 
 ## 🤝 Contact & Réseaux
 
-- GitHub : <https://github.com/BlaiseMkouta>  
-- LinkedIn : (ajoute ton lien)  
-- Portfolio : (si tu en as un)
+- GitHub : [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BlaiseMkouta)
+- LinkedIn : [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/blaise-mkouta-lele-67b9423a6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
+
 
 ---
 
