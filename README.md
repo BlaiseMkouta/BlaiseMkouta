@@ -1,17 +1,16 @@
-<!-- Typing SVG -->
+<!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Construire.;Innover.;Scaler+des+produits+web+et+mobile." />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=120&section=header&text=Blaise%20Mkouta%20Lele&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Web%20%26%20Mobile%20Developer%20%E2%80%A2%20UI%2FUX%20Designer&descAlignY=60&descSize=16" />
 </p>
 
-<h1 align="center">Blaise Mkouta Lele</h1>
+<!-- Typing SVG (hosted on vercel, plus fiable) -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Construire.;Innover.;Scaler+des+produits+web+et+mobile." alt="Typing SVG" />
+</p>
 
 <p align="center">
-  Développeur <strong>Fullstack Web & Mobile</strong> • <strong>UI/UX Designer</strong>
-  <br/>
   J'accompagne startups et entreprises dans la conception de produits numériques performants, maintenables et orientés business.
-</p>
-
-<p align="center">
+  <br/>
   📍 Douala, Cameroun
 </p>
 
