@@ -1,6 +1,6 @@
-<!-- Banner -->
+<!-- Banner (fichier local dans le repo - 100% fiable) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=120&section=header&text=Blaise%20Mkouta%20Lele&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Web%20%26%20Mobile%20Developer%20%E2%80%A2%20UI%2FUX%20Designer&descAlignY=60&descSize=16" />
+  <img src="./banner.svg" alt="Blaise Mkouta Lele Banner" width="900"/>
 </p>
 
 <!-- Typing SVG (hosted on vercel, plus fiable) -->
