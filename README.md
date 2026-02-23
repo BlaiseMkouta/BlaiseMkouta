@@ -82,15 +82,24 @@
 
 ---
 
+
+
 ## 📊 Stats GitHub
 
+
+
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BlaiseMkouta&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlaiseMkouta&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=BlaiseMkouta&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BlaiseMkouta&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BlaiseMkouta&theme=tokyonight" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BlaiseMkouta&theme=tokyonight" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BlaiseMkouta&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BlaiseMkouta&theme=tokyonight" />
 </p>
 
 ---
