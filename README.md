@@ -6,13 +6,13 @@
 <h1 align="center">Blaise Mkouta Lele</h1>
 
 <p align="center">
-  Développeur **Fullstack Web & Mobile** • **UI/UX Designer**  
+  Développeur <strong>Fullstack Web & Mobile</strong> • <strong>UI/UX Designer</strong>
   <br/>
-  J’accompagne startups et entreprises dans la conception de produits numériques performants, maintenables et orientés business.
+  J'accompagne startups et entreprises dans la conception de produits numériques performants, maintenables et orientés business.
 </p>
 
 <p align="center">
-  📍 Douala, Cameroun  
+  📍 Douala, Cameroun
 </p>
 
 ---
@@ -20,8 +20,8 @@
 ## ✨ Qui suis-je ?
 
 - 👨‍💻 Développeur Fullstack (Web & Mobile)  
-- 🎨 UI/UX Designer passionné par la création d’interfaces intuitives et modernes  
-- 🚀 Intéressé par les produits SaaS, l’automatisation et les architectures scalables  
+- 🎨 UI/UX Designer passionné par la création d'interfaces intuitives et modernes  
+- 🚀 Intéressé par les produits SaaS, l'automatisation et les architectures scalables  
 - 🧠 Axé qualité : clean code, bonnes pratiques, tests, performance  
 - 🌍 Vision orientée impact local & solutions adaptées au contexte africain  
 
@@ -85,19 +85,28 @@
 
 ## 📊 Stats GitHub
 
-![Stats](https://github-readme-stats.vercel.app/api?username=BlaiseMkouta&show_icons=true&theme=tokyonight)
-![Top Langs](https://img.shields.io/badge/Top-Langs-blue)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BlaiseMkouta&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlaiseMkouta&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BlaiseMkouta&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
 ## 🤝 Contact & Réseaux
 
-- GitHub : [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BlaiseMkouta)
-- LinkedIn : [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/blaise-mkouta-lele-67b9423a6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-
-
+<p align="center">
+  <a href="https://github.com/BlaiseMkouta">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/blaise-mkouta-lele-67b9423a6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 💡 *Vision : construire des solutions numériques utiles, adaptées au terrain, et pensées pour évoluer.*
-# BlaiseMkouta
