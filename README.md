@@ -3,7 +3,7 @@
   <img src="./banner.svg" alt="Blaise Mkouta Lele Banner" width="900"/>
 </p>
 
-<!-- Typing SVG (hosted on vercel, plus fiable) -->
+<!-- Typing SVG -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Construire.;Innover.;Scaler+des+produits+web+et+mobile." alt="Typing SVG" />
 </p>
@@ -30,7 +30,7 @@
 
 - Concevoir des applications web modernes (Angular, React, Next.js)  
 - Développer des backends robustes et scalables (NestJS, Node.js, Express.js)  
-- Créer des applications mobiles cross-platform (React Native)  
+- Créer des applications mobiles cross-platform (React Native, Flutter)  
 - Designer des interfaces intuitives et modernes (UI/UX, Tailwind)  
 - Mettre en place des bases de données fiables (MySQL, PostgreSQL)  
 - Conteneuriser et industrialiser les projets (Docker)  
@@ -40,29 +40,35 @@
 
 ## 🛠️ Tech Stack
 
-### Frontend
+### 🎨 Frontend
 
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=angular,react,nextjs,tailwind,ts,js,html,css&perline=8" height="55" />
+</p>
 
-### Mobile
+### 📱 Mobile
 
-![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,flutter,dart,androidstudio&perline=8" height="55" />
+</p>
 
-### Backend
+### ⚙️ Backend
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,prisma,postman&perline=8" height="55" />
+</p>
 
-### Database & Tools
+### 🗄️ Database & DevOps
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,docker,git,github,githubactions&perline=8" height="55" />
+</p>
+
+### 🎨 Design & Outils
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=figma,vscode&perline=8" height="55" />
+</p>
 
 ---
 
@@ -82,11 +88,7 @@
 
 ---
 
-
-
 ## 📊 Stats GitHub
-
-
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=BlaiseMkouta&theme=tokyonight&hide_border=true" />
@@ -104,14 +106,23 @@
 
 ---
 
+## 🌐 Langages les plus utilisés
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlaiseMkouta&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&card_width=500" alt="Top Languages" />
+</p>
+
+---
+
 ## 🤝 Contact & Réseaux
 
 <p align="center">
   <a href="https://github.com/BlaiseMkouta">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=github" height="55" />
   </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/blaise-mkouta-lele-67b9423a6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="55" />
   </a>
 </p>
 
