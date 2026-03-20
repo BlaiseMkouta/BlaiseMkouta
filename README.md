@@ -67,7 +67,7 @@
 ### 🎨 Design & Outils
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=figma,vscode&perline=8" height="55" />
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai,vscode&perline=8" height="55" />
 </p>
 
 ---
